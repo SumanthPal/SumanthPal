@@ -22,11 +22,13 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthPal&show_icons=true&theme=radical)
+![Sumanth's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SumanthPal&theme=radical)
+
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sumanth-pallamreddy-88271b239/)
+- Twitter: [@sumanthpal_]([https://twitter.com/YourTwitterHandle](https://x.com/sumanthpal_))
 
 
 
