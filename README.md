@@ -1,6 +1,6 @@
-# Thanks for checking out my profile!! 👋
+# profile!
 
-Hey, I really appreciate you, whomever you are for checking out my profile. I hope you can learn something about me, as well as the work I've done. 
+Hey, thanks for checking out my profile!! Whomever you are, I hope you can learn something about me, as well as the work I've done. 
 
 - 🔭 I’m currently working on **Instinct**.
 - 🌱 I’m exploring various fields to expand my knowledge.
