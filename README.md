@@ -7,9 +7,9 @@ I'm a passionate builder, systems tinkerer, and full-time learner. Whether you'r
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Instinct](https://github.com/SumanthPal/Instinct)** – a platform to discover student clubs through social content.
-- 🌱 Exploring web dev, blockchain, smart contracts & cybersecurity.
-- 🤝 Open to collabs in systems, dApps, or data-driven projects.
+- 🔭 Currently building **[Instinct](https://github.com/SumanthPal/CorpusNote)** – a platform for researchers to interact with their knowledge repositories.
+- 🌱 Exploring networking in layer 2 protocols.
+- 🤝 Open to collabs in systems, dApps, apps, or data-driven projects.
 - 💬 Ask me about **cars, distributed systems, or DeFi**.
 - 📫 Reach out: [sumanthpal21@gmail.com](mailto:sumanthpal21@gmail.com)
 - ⚡ Fun fact: I love challenging myself with full-stack solo builds and automating anything possible.
