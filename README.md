@@ -7,7 +7,7 @@ I'm a passionate builder, systems tinkerer, and full-time learner. Whether you'r
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Instinct](https://github.com/SumanthPal/CorpusNote)** – a platform for researchers to interact with their knowledge repositories.
+- 🔭 Currently building **[CorpusNote](https://github.com/SumanthPal/CorpusNote)** – a platform for researchers to interact with their knowledge repositories.
 - 🌱 Exploring networking in layer 2 protocols.
 - 🤝 Open to collabs in systems, dApps, apps, or data-driven projects.
 - 💬 Ask me about **cars, distributed systems, or DeFi**.
