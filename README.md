@@ -1,18 +1,18 @@
-# 👋 Hey there, I'm Sumanth!
+#  Hey there, I'm Sumanth!
 
 Welcome to my GitHub — glad you stopped by!  
 I'm a passionate builder, systems tinkerer, and full-time learner. Whether you're here to collaborate or explore, I hope you find something that sparks your interest.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently building **[CorpusNote](https://github.com/SumanthPal/CorpusNote)** – a platform for researchers to interact with their knowledge repositories.
-- 🌱 Exploring networking in layer 2 protocols.
-- 🤝 Open to collabs in systems, dApps, apps, or data-driven projects.
-- 💬 Ask me about **cars, distributed systems, or DeFi**.
-- 📫 Reach out: [My Email](mailto:00vireo.stale@icloud.com)
-- ⚡ Fun fact: I love challenging myself with full-stack solo builds and automating anything possible.
+- Currently building **[CorpusNote](https://github.com/SumanthPal/CorpusNote)** – a platform for researchers to interact with their knowledge repositories.
+- Exploring networking in layer 2 protocols.
+- Open to collabs in systems, dApps, apps, or data-driven projects.
+- Ask me about **cars, distributed systems, or anything cs**.
+- Reach out: [My Email](mailto:00vireo.stale@icloud.com)
+- Fun fact: I love challenging myself with full-stack solo builds and automating anything possible.
 
 ---
 
