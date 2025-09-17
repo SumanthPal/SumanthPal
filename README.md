@@ -31,7 +31,7 @@ I'm a passionate builder, systems tinkerer, and full-time learner. Whether you'r
 
 ---
 
-## 🔥 GitHub Activity Streaks & Graphs
+## GitHub Activity Streaks & Graphs
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthPal&theme=radical"/>
@@ -43,7 +43,7 @@ I'm a passionate builder, systems tinkerer, and full-time learner. Whether you'r
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/sumanth-pallamreddy-88271b239/">
